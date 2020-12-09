@@ -83,6 +83,5 @@ https://leetcode.com/problems/range-sum-query-mutable/
 
 https://leetcode.com/problems/range-sum-query-2d-mutable/
 
-
-
-
+# Rererence
+https://labuladong.gitbook.io/algo-en/iii.-algorithmic-thinking/prefix_sum
