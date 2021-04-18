@@ -81,6 +81,8 @@ https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/  Refer h
 
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
+https://leetcode.com/problems/bomb-enemy/
+
 # Problem seems similar to Prefix Sum but need other algorithm to optimized it
 https://leetcode.com/problems/range-sum-query-mutable/
 
