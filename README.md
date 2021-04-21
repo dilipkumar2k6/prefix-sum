@@ -83,6 +83,9 @@ https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 https://leetcode.com/problems/bomb-enemy/
 
+## Usage of prefix sum
+https://leetcode.com/problems/split-array-with-equal-sum/
+
 # Problem seems similar to Prefix Sum but need other algorithm to optimized it
 https://leetcode.com/problems/range-sum-query-mutable/
 
