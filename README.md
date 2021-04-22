@@ -86,6 +86,9 @@ https://leetcode.com/problems/bomb-enemy/
 ## Usage of prefix sum
 https://leetcode.com/problems/split-array-with-equal-sum/
 
+# On Tree
+https://leetcode.com/problems/path-sum-iii/
+
 # Problem seems similar to Prefix Sum but need other algorithm to optimized it
 https://leetcode.com/problems/range-sum-query-mutable/
 
