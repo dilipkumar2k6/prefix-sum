@@ -94,5 +94,9 @@ https://leetcode.com/problems/range-sum-query-mutable/
 
 https://leetcode.com/problems/range-sum-query-2d-mutable/
 
+# Split arrays
+
+https://leetcode.com/problems/split-array-with-equal-sum/description/
+
 # Rererence
 https://labuladong.gitbook.io/algo-en/iii.-algorithmic-thinking/prefix_sum
